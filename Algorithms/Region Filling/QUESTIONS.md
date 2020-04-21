@@ -1,0 +1,3 @@
+Problem 1: Suppose you are given coordinates of two opposite corner point of a rectangle. Scan convert the rectangle using any line drawing algorithm that you prefer and fill the rectangle using colour red using boundary/floodfill(any one) algorithm. Seed? Use the intersection point of two diagonals as a seed. The rectangle will be parallal to the horizontal axis.
+
+Problem 2: You are given center and radius of a circle. Draw the circle using Bresenham algorithm and fill the circle with red using boundary/floodfill(any one) algorithm. Use the centre as seed.
